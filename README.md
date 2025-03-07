@@ -1,7 +1,22 @@
-Olá, sou o MrPandous.
-Gosto muito de programação e atualmente estou estudando desenvolvimento web com JS.
-Sou aluno do IFRN e venho tentando crescer como dev.
-Aceito conselhos e dicas.
 
-Você pode me encontrar em: https://github.com/MrPandous.
-Passa lá para dar uma olhada nos meus projetinhos, quem sabe me dar uma força, tá tenso de programar no pc da xuxa ._.
+# Sobre Mim
+
+Sou Técnico de Informática formado pelo Instituto Federal do Rio Grande do Norte e Bacharelando em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte.
+
+Tenho experiência profissional em suporte de TI e estudo desenvolvimento desde 2021, quando iniciei o curso técnico.
+## Minha Stack
+
+Atualmente minha principal stack envolve:
+- NodeJS com ExpressJS e Typescript no BackEnd;
+- HTML5, CSS3 e JavaScript no FrontEnd;
+- PostgreSQL como Banco de Dados; e
+- Docker para separar todos os serviços em containers.
+## Experiencias Profissionais
+
+- Trabalhei como aprendiz na empresa Armil Mineração do Nordeste (10/2023 - 10/2024)
+- Trabalhei como estagiário na empresa Armil Mineração do Nordeste (11/2024 - 01/2025)
+## Projetos
+
+Não me sinto contente com o nível do código feito pelo Eu do passado, apesar de já seguir algumas boas práticas de SOLID e DRY. Os projetos em desenvolvimento serão publicados e anexados aqui.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelpy-de-azevedo-lima/)
