@@ -13,8 +13,9 @@ Atualmente minha principal stack envolve:
 - Docker para separar todos os serviços em containers.
 ## Experiencias Profissionais
 
-- Trabalhei como aprendiz na empresa Armil Mineração do Nordeste (10/2023 - 10/2024)
-- Trabalhei como estagiário na empresa Armil Mineração do Nordeste (11/2024 - 01/2025)
+- Aprendiz na empresa Armil Mineração do Nordeste (10/2023 - 10/2024)
+- Estagiário na empresa Armil Mineração do Nordeste (11/2024 - 01/2025)
+- Estagiário de Desenvolvimento de Sistemas na empresa Grupo WT (08/2025 - Atualmente)
 ## Projetos
 
 Não me sinto contente com o nível do código feito pelo Eu do passado, apesar de já seguir algumas boas práticas de SOLID e DRY. Os projetos em desenvolvimento serão publicados e anexados aqui.
